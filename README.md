@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nagesh-shenoy
-- 👀 I’m interested in robotics 
+- 👀 I’m interested in Robotics and Automation
 - 🌱 I’m currently learning MATLAB 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/nagesh-shenoy-03218a199/
